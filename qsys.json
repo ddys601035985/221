@@ -42,10 +42,29 @@
       "ext": "https://fanty.run.goorm.site/ext/nmys.json"
     },
     {"key":"迷你库影视","name":"🐮❗️桐桐❗️秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
-    
+     {
+      "key": "赞赞",
+      "name": "💜全顺┃1线",
+      "type": 3,
+      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "feiyun",
+      "name": "💜全顺┃2线",
+      "type": 3,
+      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+      "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/fy.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
     {
       "key": "Czsapp",
-      "name": "💜全顺┃1线",
+      "name": "💜全顺┃3线",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -56,7 +75,7 @@
     },
     {
       "key": "橘子",
-      "name": "💜全顺┃2线",
+      "name": "💜全顺┃4线",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -68,7 +87,7 @@
 
     {
       "key": "嘿嘿",
-      "name": "💜全顺┃3线",
+      "name": "💜全顺┃5线",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -79,7 +98,7 @@
  
     {
       "key": "小小",
-      "name": "💜全顺┃4线",
+      "name": "💜全顺┃6线",
       "type": 3,
       "api": "csp_AppSK",
       "searchable": 1,
@@ -91,7 +110,7 @@
 
     {
       "key": "南坊",
-      "name": "💜全顺┃5线",
+      "name": "💚全顺┃7线",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -102,7 +121,7 @@
 
     {
       "key": "繁星",
-      "name": "💜全顺┃6线",
+      "name": "💚全顺┃8线",
       "type": 3,
       "api": "csp_AppMao",
       "playerType": 2,
@@ -114,7 +133,7 @@
 
     {
       "key": "csp_SP33",
-      "name": "💜全顺┃7线",
+      "name": "💚全顺┃9线",
       "type": 3,
       "api": "csp_SP33",
       "searchable": 1,
