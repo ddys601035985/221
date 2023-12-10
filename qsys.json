@@ -358,19 +358,8 @@
     }  
   ],
    "parses":[
-         {
-      "name": "Json聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "Web聚合",
-      "type": 3,
-      "url": "Web"
-    },
-   
-    {
-      "name": "全顺解析",
+{
+      "name": "🌴全顺解析🌴",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url=",
       "ext": {
@@ -399,7 +388,7 @@
       }
     },
     {
-      "name": "全顺解析1",
+      "name": "🌴全顺解析1🌴",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url=",
       "ext": {
@@ -427,9 +416,19 @@
         }
       }
     },
+     {
+      "name": "🌴全顺解析2🌴",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+     {
+      "name": "🌴全顺解析3🌴",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
 
     {
-      "name": "全顺解析2",
+      "name": "🌴全顺解析4🌴",
       "type": 0,
       "url": "https://yun.ckmov.com/?url=",
       "ext": {
