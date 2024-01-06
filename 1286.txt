@@ -39,6 +39,23 @@ CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
+CCTV1,http://test.agtv.xyz/jd/hncd.php?id=cctv1
+CCTV2,http://test.agtv.xyz/jd/hncd.php?id=cctv2
+CCTV3,http://test.agtv.xyz/jd/hncd.php?id=cctv3
+CCTV4,http://test.agtv.xyz/jd/hncd.php?id=cctv4
+CCTV5,http://test.agtv.xyz/jd/hncd.php?id=cctv5
+CCTV6,http://test.agtv.xyz/jd/hncd.php?id=cctv6
+CCTV7,http://test.agtv.xyz/jd/hncd.php?id=cctv7
+CCTV8,http://test.agtv.xyz/jd/hncd.php?id=cctv8
+CCTV9,http://test.agtv.xyz/jd/hncd.php?id=cctv9
+CCTV10,http://test.agtv.xyz/jd/hncd.php?id=cctv10
+CCTV11,http://test.agtv.xyz/jd/hncd.php?id=cctv11
+CCTV12,http://test.agtv.xyz/jd/hncd.php?id=cctv12
+CCTV13,http://test.agtv.xyz/jd/hncd.php?id=cctv13
+CCTV14,http://test.agtv.xyz/jd/hncd.php?id=cctv14
+CCTV15,http://test.agtv.xyz/jd/hncd.php?id=cctv15
+CCTV17,http://test.agtv.xyz/jd/hncd.php?id=cctv17
+
 CCTV1,http://newzxl.top:4022/rtp/239.253.92.83:8012
 CCTV2,http://newzxl.top:4022/rtp/239.253.92.190:6065
 CCTV3,http://newzxl.top:4022/rtp/239.253.92.191:6057
@@ -162,6 +179,32 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 宁夏卫视,http://182.32.204.113:9901/tsfile/live/1051_1.m3u8?by=angtv
 青海卫视,http://182.32.204.113:9901/tsfile/live/1052_1.m3u8?by=angtv
 西藏卫视,http://182.32.204.113:9901/tsfile/live/1053_1.m3u8?by=angtv
+
+北京卫视,http://test.agtv.xyz/jd/hncd.php?id=bjws
+东方卫视,http://test.agtv.xyz/jd/hncd.php?id=dfws
+浙江卫视,http://test.agtv.xyz/jd/hncd.php?id=jzws
+江苏卫视,http://test.agtv.xyz/jd/hncd.php?id=jsws
+天津卫视,http://test.agtv.xyz/jd/hncd.php?id=tjws
+深圳卫视,http://test.agtv.xyz/jd/hncd.php?id=szws
+广东卫视,http://test.agtv.xyz/jd/hncd.php?id=gdws
+湖北卫视,http://test.agtv.xyz/jd/hncd.php?id=hbws
+广西卫视,http://test.agtv.xyz/jd/hncd.php?id=xws
+安徽卫视,http://test.agtv.xyz/jd/hncd.php?id=ahws
+江西卫视,http://test.agtv.xyz/jd/hncd.php?id=jxws
+陕西卫视,http://test.agtv.xyz/jd/hncd.php?id=saws
+黑龙江卫视,http://test.agtv.xyz/jd/hncd.php?id=hlws
+贵州卫视,http://test.agtv.xyz/jd/hncd.php?id=gzws
+宁夏卫视,http://test.agtv.xyz/jd/hncd.php?id=nxws
+内蒙古卫视,http://test.agtv.xyz/jd/hncd.php?id=nmws
+河北卫视,http://test.agtv.xyz/jd/hncd.php?id=hews
+四川卫视,http://test.agtv.xyz/jd/hncd.php?id=scws
+云南卫视,http://test.agtv.xyz/jd/hncd.php?id=ynws
+重庆卫视,http://test.agtv.xyz/jd/hncd.php?id=cqws
+甘肃卫视,http://test.agtv.xyz/jd/hncd.php?id=gsws
+山西卫视,http://test.agtv.xyz/jd/hncd.php?id=sxws
+西藏卫视,http://test.agtv.xyz/jd/hncd.php?id=xzws
+新疆卫视,http://test.agtv.xyz/jd/hncd.php?id=xjws
+辽宁卫视,http://test.agtv.xyz/jd/hncd.php?id=lnws
 
 
 河北卫视,http://newzxl.top:4022/rtp/239.253.92.154:6011
