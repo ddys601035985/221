@@ -6,7 +6,7 @@ CCTV3,http://test.agtv.xyz/jd/hncd.php?id=cctv3
 CCTV4,http://test.agtv.xyz/jd/hncd.php?id=cctv4
 CCTV5,http://test.agtv.xyz/jd/hncd.php?id=cctv5
 CCTV6,http://test.agtv.xyz/jd/hncd.php?id=cctv6
-CCTV7,http://182.32.204.113:9901/tsfile/live/0007_1.m3u8?by=angtv
+CCTV7,http://222.223.119.21:8888/newlive/live/hls/9/live.m3u8
 CCTV8,http://test.agtv.xyz/jd/hncd.php?id=cctv8
 CCTV9,http://test.agtv.xyz/jd/hncd.php?id=cctv9
 CCTV10,http://test.agtv.xyz/jd/hncd.php?id=cctv10
