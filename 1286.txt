@@ -45,7 +45,6 @@ CCTV4,http://222.223.119.21:8888/newlive/live/hls/5/live.m3u8
 CCTV5,http://222.223.119.21:8888/newlive/live/hls/6/live.m3u8
 CCTV5+,http://222.223.119.21:8888/newlive/live/hls/7/live.m3u8
 CCTV6,http://222.223.119.21:8888/newlive/live/hls/8/live.m3u8
-CCTV7,http://222.223.119.21:8888/newlive/live/hls/9/live.m3u8
 CCTV8,http://222.223.119.21:8888/newlive/live/hls/10/live.m3u8
 CCTV9,http://222.223.119.21:8888/newlive/live/hls/11/live.m3u8
 CCTV10,http://222.223.119.21:8888/newlive/live/hls/12/live.m3u8
