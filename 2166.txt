@@ -271,7 +271,7 @@ CCTV17,http://newzxl.top:4022/rtp/239.253.93.150:6318
 
 宇宙频道_216,#genre#
 01,https://m1.m3u8111222333.com/I0106/ydmg/ydmg.m3u8
-02,
+02,https://m1.m3u8111222333.com/F0405/dzjf/dzjf.m3u8
 03,
 04,
 05,
