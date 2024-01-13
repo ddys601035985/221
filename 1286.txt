@@ -15,6 +15,7 @@ CCTV12,http://test.agtv.xyz/jd/hncd.php?id=cctv12
 CCTV13,http://test.agtv.xyz/jd/hncd.php?id=cctv13
 CCTV14,http://test.agtv.xyz/jd/hncd.php?id=cctv14
 CCTV15,http://test.agtv.xyz/jd/hncd.php?id=cctv15
+CCTV16,http://220.194.178.58:8888/newlive/live/hls/18/live.m3u8
 CCTV17,http://test.agtv.xyz/jd/hncd.php?id=cctv17
 
 
@@ -54,7 +55,42 @@ CCTV13,http://222.223.119.21:8888/newlive/live/hls/15/live.m3u8
 CCTV14,http://222.223.119.21:8888/newlive/live/hls/16/live.m3u8
 CCTV15,http://222.223.119.21:8888/newlive/live/hls/17/live.m3u8
 
+            华视
+CCTV1,http://220.194.178.58:8888/newlive/live/hls/2/live.m3u8
+CCTV2,http://220.194.178.58:8888/newlive/live/hls/3/live.m3u8
+CCTV3,http://220.194.178.58:8888/newlive/live/hls/4/live.m3u8
+CCTV4,http://220.194.178.58:8888/newlive/live/hls/5/live.m3u8
+CCTV5,http://220.194.178.58:8888/newlive/live/hls/6/live.m3u8
+CCTV5+,http://220.194.178.58:8888/newlive/live/hls/7/live.m3u8
+CCTV6,http://220.194.178.58:8888/newlive/live/hls/8/live.m3u8
+CCTV7,http://220.194.178.58:8888/newlive/live/hls/9/live.m3u8
+CCTV8,http://220.194.178.58:8888/newlive/live/hls/10/live.m3u8
+CCTV9,http://220.194.178.58:8888/newlive/live/hls/11/live.m3u8
+CCTV10,http://220.194.178.58:8888/newlive/live/hls/12/live.m3u8
+CCTV11,http://220.194.178.58:8888/newlive/live/hls/13/live.m3u8
+CCTV12,http://220.194.178.58:8888/newlive/live/hls/14/live.m3u8
+CCTV13,http://220.194.178.58:8888/newlive/live/hls/15/live.m3u8
+CCTV14,http://220.194.178.58:8888/newlive/live/hls/16/live.m3u8
+CCTV15,http://220.194.178.58:8888/newlive/live/hls/17/live.m3u8
+CCTV16,http://220.194.178.58:8888/newlive/live/hls/18/live.m3u8
+   陕西移动
+CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+CCTV2,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+CCTV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+CCTV4,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
+CCTV5,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+CCTV5+,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV6,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
+CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225778/1.m3u8
+CCTV8,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+CCTV9,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+CCTV13,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+CCTV14,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
+CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 
+
+      
 CCTV1,http://182.32.204.113:9901/tsfile/live/0001_1.m3u8?by=angtv
 CCTV2,http://182.32.204.113:9901/tsfile/live/0002_1.m3u8?by=angtv
 CCTV3,http://182.32.204.113:9901/tsfile/live/0003_1.m3u8?by=angtv
