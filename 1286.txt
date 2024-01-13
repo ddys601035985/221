@@ -72,6 +72,27 @@ CCTV9,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122619
 CCTV13,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV14,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+        
+
+    央视频
+CCTV1,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv1
+CCTV2,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv2
+CCTV3,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv3
+CCTV4,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv4
+CCTV5,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv5
+CCTV5+,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv5p
+CCTV6,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv6
+CCTV7,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv7
+CCTV8,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv8
+CCTV9,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv9
+CCTV10,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv10
+CCTV11,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv11
+CCTV12,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv12
+CCTV13,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv13
+CCTV14,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv14
+CCTV15,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv15
+CCTV16,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv16
+CCTV17,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv17
 
 
 CCTV1,http://222.223.119.21:8888/newlive/live/hls/2/live.m3u8
@@ -269,6 +290,34 @@ CCTV17,http://newzxl.top:4022/rtp/239.253.93.150:6318
 兵团卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226214/1.m3u8
 广东卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226216/1.m3u8
 北京卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226222/1.m3u8
+
+
+
+     央视频
+北京卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=bjws
+东方卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=dfws
+天津卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=tjws
+重庆卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=cqws
+黑龙江卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=hljws
+辽宁卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=lnws
+河北卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=hbws
+山东卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=sdws
+安徽卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=ahws
+河南卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=hnws
+湖北卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=hubws
+湖南卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=hunws
+江西卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=jxws
+江苏卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=jsws
+浙江卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=zjws
+东南卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=dnws
+广东卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=gdws
+深圳卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=szws
+广西卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=gxws
+贵州卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=gzws
+四川卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=scws
+新疆卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=xjws
+海南卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=hinws
+
 
 
 山东卫视,http://182.32.204.113:9901/tsfile/live/1070_1.m3u8?by=angtv
