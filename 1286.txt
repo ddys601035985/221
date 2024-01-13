@@ -133,7 +133,7 @@ CCTV17,http://newzxl.top:4022/rtp/239.253.93.150:6318
 
 
 卫视频道🌴,#genre#
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
+
 河北卫视,http://222.223.119.21:8888/newlive/live/hls/48/live.m3u8
 北京卫视,http://222.223.119.21:8888/newlive/live/hls/19/live.m3u8
 东方卫视,http://222.223.119.21:8888/newlive/live/hls/20/live.m3u8
@@ -165,7 +165,7 @@ CCTV17,http://newzxl.top:4022/rtp/239.253.93.150:6318
 江西卫视,http://222.223.119.21:8888/newlive/live/hls/46/live.m3u8
 山西卫视,http://222.223.119.21:8888/newlive/live/hls/47/live.m3u8
 
-
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
      移动
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
 四川卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
