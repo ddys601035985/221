@@ -93,6 +93,63 @@ CCTV14,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv14
 CCTV15,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv15
 CCTV16,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv16
 CCTV17,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv17
+   
+ 银河
+CCTV1,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8
+CCTV2,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-2-CQ/G_CCTV-2-CQ.m3u8
+CCTV3,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-3-CQ/G_CCTV-3-CQ.m3u8
+CCTV4,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-4-CQ/G_CCTV-4-CQ.m3u8
+CCTV5,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-5-CQ/G_CCTV-5-CQ.m3u8
+CCTV5+,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ.m3u8
+CCTV6,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-6-CQ/G_CCTV-6-CQ.m3u8
+CCTV7,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-7-CQ/G_CCTV-7-CQ.m3u8
+CCTV8,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-8-CQ/G_CCTV-8-CQ.m3u8
+CCTV9,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-9-HD-265-5M/G_CCTV-9-HD-265-5M.m3u8
+CCTV10,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8
+CCTV11,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
+CCTV12,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-12-HD-265-5M/G_CCTV-12-HD-265-5M.m3u8
+CCTV13,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-13-CQ/G_CCTV-13-CQ.m3u8
+CCTV14,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
+CCTV15,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-15/G_CCTV-15.m3u8
+CCTV16,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
+CCTV17,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-17-CQ/G_CCTV-17-CQ.m3u8
+
+ 河南联通
+CCTV1,http://182.119.122.136:8000/udp/225.1.4.73:1102
+CCTV2,http://182.119.122.136:8000/udp/225.1.4.74:1103
+CCTV3,http://182.119.122.136:8000/udp/225.1.4.158:1194
+CCTV4,http://182.119.122.136:8000/udp/225.1.5.30:1333
+CCTV5,http://182.119.122.136:8000/udp/225.1.4.159:1195
+CCTV5+,http://182.119.122.136:8000/udp/225.1.4.75:1104
+CCTV6,http://182.119.122.136:8000/udp/225.1.4.160:1196
+CCTV7,http://182.119.122.136:8000/udp/225.1.4.76:1105
+CCTV8,http://182.119.122.136:8000/udp/225.1.4.161:1197
+CCTV9,http://182.119.122.136:8000/udp/225.1.4.77:1106
+CCTV11,http://182.119.122.136:8000/udp/225.1.4.215:1268
+CCTV12,http://182.119.122.136:8000/udp/225.1.4.79:1108
+CCTV13,http://182.119.122.136:8000/udp/225.1.4.113:1293
+CCTV14,http://182.119.122.136:8000/udp/225.1.4.80:1109
+CCTV15,http://182.119.122.136:8000/udp/225.1.4.216:1269
+CCTV17,http://182.119.122.136:8000/udp/225.1.4.226:2506
+
+ 咪咕
+CCTV1,http://sx.liuyun.wang:88/zb/migu.php?id=cctv1
+CCTV2,http://sx.liuyun.wang:88/zb/migu.php?id=cctv2
+CCTV3,http://sx.liuyun.wang:88/zb/migu.php?id=cctv3
+CCTV4,http://sx.liuyun.wang:88/zb/migu.php?id=cctv4
+CCTV5,http://sx.liuyun.wang:88/zb/migu.php?id=cctv5
+CCTV5+,http://sx.liuyun.wang:88/zb/migu.php?id=cctv5p
+CCTV6,http://sx.liuyun.wang:88/zb/migu.php?id=cctv6
+CCTV7,http://sx.liuyun.wang:88/zb/migu.php?id=cctv7
+CCTV8,http://sx.liuyun.wang:88/zb/migu.php?id=cctv8
+CCTV9,http://sx.liuyun.wang:88/zb/migu.php?id=cctv9
+CCTV10,http://sx.liuyun.wang:88/zb/migu.php?id=cctv10
+CCTV11,http://sx.liuyun.wang:88/zb/migu.php?id=cctv11
+CCTV12,http://sx.liuyun.wang:88/zb/migu.php?id=cctv12
+CCTV13,http://sx.liuyun.wang:88/zb/migu.php?id=cctv13
+CCTV14,http://sx.liuyun.wang:88/zb/migu.php?id=cctv14
+CCTV15,http://sx.liuyun.wang:88/zb/migu.php?id=cctv15
+CCTV17,http://sx.liuyun.wang:88/zb/migu.php?id=cctv17
 
 
 CCTV1,http://222.223.119.21:8888/newlive/live/hls/2/live.m3u8
@@ -302,6 +359,7 @@ CCTV17,http://182.32.204.113:9901/tsfile/live/1066_1.m3u8?by=angtv
 新疆卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=xjws
 海南卫视,http://sx.liuyun.wang:88/zb/ysp.php?id=hinws
 
+ 咪咕
 
 
 山东卫视,http://182.32.204.113:9901/tsfile/live/1070_1.m3u8?by=angtv
