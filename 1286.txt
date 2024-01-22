@@ -1,24 +1,24 @@
 央视频道🌴,#genre#
+            华视
+CCTV1,http://220.194.178.58:8888/newlive/live/hls/2/live.m3u8
+CCTV2,http://220.194.178.58:8888/newlive/live/hls/3/live.m3u8
+CCTV3,http://220.194.178.58:8888/newlive/live/hls/4/live.m3u8
+CCTV4,http://220.194.178.58:8888/newlive/live/hls/5/live.m3u8
+CCTV5,http://220.194.178.58:8888/newlive/live/hls/6/live.m3u8
+CCTV5+,http://220.194.178.58:8888/newlive/live/hls/7/live.m3u8
+CCTV6,http://220.194.178.58:8888/newlive/live/hls/8/live.m3u8
+CCTV7,http://220.194.178.58:8888/newlive/live/hls/9/live.m3u8
+CCTV8,http://220.194.178.58:8888/newlive/live/hls/10/live.m3u8
+CCTV9,http://220.194.178.58:8888/newlive/live/hls/11/live.m3u8
+CCTV10,http://220.194.178.58:8888/newlive/live/hls/12/live.m3u8
+CCTV11,http://220.194.178.58:8888/newlive/live/hls/13/live.m3u8
+CCTV12,http://220.194.178.58:8888/newlive/live/hls/14/live.m3u8
+CCTV13,http://220.194.178.58:8888/newlive/live/hls/15/live.m3u8
+CCTV14,http://220.194.178.58:8888/newlive/live/hls/16/live.m3u8
+CCTV15,http://220.194.178.58:8888/newlive/live/hls/17/live.m3u8
+CCTV16,http://220.194.178.58:8888/newlive/live/hls/18/live.m3u8
 
-    央视频
-CCTV1,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv1
-CCTV2,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv2
-CCTV3,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv3
-CCTV4,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv4
-CCTV5,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv5
-CCTV5+,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv5p
-CCTV6,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv6
-CCTV7,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv7
-CCTV8,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv8
-CCTV9,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv9
-CCTV10,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv10
-CCTV11,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv11
-CCTV12,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv12
-CCTV13,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv13
-CCTV14,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv14
-CCTV15,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv15
-CCTV16,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv16
-CCTV17,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv17
+
 
       移动
 
@@ -41,24 +41,7 @@ CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
-            华视
-CCTV1,http://220.194.178.58:8888/newlive/live/hls/2/live.m3u8
-CCTV2,http://220.194.178.58:8888/newlive/live/hls/3/live.m3u8
-CCTV3,http://220.194.178.58:8888/newlive/live/hls/4/live.m3u8
-CCTV4,http://220.194.178.58:8888/newlive/live/hls/5/live.m3u8
-CCTV5,http://220.194.178.58:8888/newlive/live/hls/6/live.m3u8
-CCTV5+,http://220.194.178.58:8888/newlive/live/hls/7/live.m3u8
-CCTV6,http://220.194.178.58:8888/newlive/live/hls/8/live.m3u8
-CCTV7,http://220.194.178.58:8888/newlive/live/hls/9/live.m3u8
-CCTV8,http://220.194.178.58:8888/newlive/live/hls/10/live.m3u8
-CCTV9,http://220.194.178.58:8888/newlive/live/hls/11/live.m3u8
-CCTV10,http://220.194.178.58:8888/newlive/live/hls/12/live.m3u8
-CCTV11,http://220.194.178.58:8888/newlive/live/hls/13/live.m3u8
-CCTV12,http://220.194.178.58:8888/newlive/live/hls/14/live.m3u8
-CCTV13,http://220.194.178.58:8888/newlive/live/hls/15/live.m3u8
-CCTV14,http://220.194.178.58:8888/newlive/live/hls/16/live.m3u8
-CCTV15,http://220.194.178.58:8888/newlive/live/hls/17/live.m3u8
-CCTV16,http://220.194.178.58:8888/newlive/live/hls/18/live.m3u8
+
    陕西移动
 CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV2,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
@@ -134,6 +117,26 @@ CCTV13,http://sx.liuyun.wang:88/zb/migu.php?id=cctv13
 CCTV14,http://sx.liuyun.wang:88/zb/migu.php?id=cctv14
 CCTV15,http://sx.liuyun.wang:88/zb/migu.php?id=cctv15
 CCTV17,http://sx.liuyun.wang:88/zb/migu.php?id=cctv17
+
+    央视频
+CCTV1,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv1
+CCTV2,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv2
+CCTV3,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv3
+CCTV4,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv4
+CCTV5,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv5
+CCTV5+,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv5p
+CCTV6,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv6
+CCTV7,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv7
+CCTV8,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv8
+CCTV9,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv9
+CCTV10,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv10
+CCTV11,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv11
+CCTV12,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv12
+CCTV13,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv13
+CCTV14,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv14
+CCTV15,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv15
+CCTV16,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv16
+CCTV17,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv17
 
 
 CCTV1,http://222.223.119.21:8888/newlive/live/hls/2/live.m3u8
