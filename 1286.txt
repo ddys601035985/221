@@ -1,22 +1,24 @@
 央视频道🌴,#genre#
 
-CCTV1,http://test.agtv.xyz/jd/hncd.php?id=cctv1
-CCTV2,http://test.agtv.xyz/jd/hncd.php?id=cctv2
-CCTV3,http://test.agtv.xyz/jd/hncd.php?id=cctv3
-CCTV4,http://test.agtv.xyz/jd/hncd.php?id=cctv4
-CCTV5,http://test.agtv.xyz/jd/hncd.php?id=cctv5
-CCTV6,http://test.agtv.xyz/jd/hncd.php?id=cctv6
-CCTV7,http://222.223.119.21:8888/newlive/live/hls/9/live.m3u8
-CCTV8,http://test.agtv.xyz/jd/hncd.php?id=cctv8
-CCTV9,http://test.agtv.xyz/jd/hncd.php?id=cctv9
-CCTV10,http://test.agtv.xyz/jd/hncd.php?id=cctv10
-CCTV11,http://test.agtv.xyz/jd/hncd.php?id=cctv11
-CCTV12,http://test.agtv.xyz/jd/hncd.php?id=cctv12
-CCTV13,http://test.agtv.xyz/jd/hncd.php?id=cctv13
-CCTV14,http://test.agtv.xyz/jd/hncd.php?id=cctv14
-CCTV15,http://test.agtv.xyz/jd/hncd.php?id=cctv15
-CCTV16,http://220.194.178.58:8888/newlive/live/hls/18/live.m3u8
-CCTV17,http://test.agtv.xyz/jd/hncd.php?id=cctv17
+    央视频
+CCTV1,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv1
+CCTV2,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv2
+CCTV3,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv3
+CCTV4,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv4
+CCTV5,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv5
+CCTV5+,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv5p
+CCTV6,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv6
+CCTV7,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv7
+CCTV8,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv8
+CCTV9,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv9
+CCTV10,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv10
+CCTV11,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv11
+CCTV12,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv12
+CCTV13,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv13
+CCTV14,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv14
+CCTV15,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv15
+CCTV16,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv16
+CCTV17,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv17
 
       移动
 
@@ -74,25 +76,7 @@ CCTV14,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212261
 CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
         
 
-    央视频
-CCTV1,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv1
-CCTV2,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv2
-CCTV3,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv3
-CCTV4,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv4
-CCTV5,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv5
-CCTV5+,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv5p
-CCTV6,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv6
-CCTV7,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv7
-CCTV8,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv8
-CCTV9,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv9
-CCTV10,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv10
-CCTV11,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv11
-CCTV12,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv12
-CCTV13,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv13
-CCTV14,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv14
-CCTV15,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv15
-CCTV16,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv16
-CCTV17,http://sx.liuyun.wang:88/zb/ysp.php?id=cctv17
+
    
  银河
 CCTV1,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8
