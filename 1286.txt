@@ -41,25 +41,7 @@ CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
-   央视
-CCTV1,http://www.liuyunw.com:88/zb/gzyh.php?id=cctv1
-CCTV2,http://www.liuyunw.com:88/zb/gzyh.php?id=cctv2
-CCTV3,http://www.liuyunw.com:88/zb/gzyh.php?id=cctv3
-CCTV4,http://www.liuyunw.com:88/zb/gzyh.php?id=cctv4
-CCTV5,http://www.liuyunw.com:88/zb/gzyh.php?id=cctv5
-CCTV5+,http://www.liuyunw.com:88/zb/gzyh.php?id=cctv5p
-CCTV6,http://www.liuyunw.com:88/zb/gzyh.php?id=cctv6
-CCTV7,http://www.liuyunw.com:88/zb/gzyh.php?id=cctv7
-CCTV8,http://www.liuyunw.com:88/zb/gzyh.php?id=cctv8
-CCTV9,http://www.liuyunw.com:88/zb/gzyh.php?id=cctv9
-CCTV10,http://www.liuyunw.com:88/zb/gzyh.php?id=cctv10
-CCTV11,http://www.liuyunw.com:88/zb/gzyh.php?id=cctv11
-CCTV12,http://www.liuyunw.com:88/zb/gzyh.php?id=cctv12
-CCTV13,http://www.liuyunw.com:88/zb/gzyh.php?id=cctv13
-CCTV14,http://www.liuyunw.com:88/zb/gzyh.php?id=cctv14
-CCTV15,http://www.liuyunw.com:88/zb/gzyh.php?id=cctv15
-CCTV16,http://www.liuyunw.com:88/zb/gzyh.php?id=cctv16
-CCTV17,http://www.liuyunw.com:88/zb/gzyh.php?id=cctv17
+
 
    陕西移动
 CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
@@ -80,43 +62,7 @@ CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 
 
    
- 银河
-CCTV1,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8
-CCTV2,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-2-CQ/G_CCTV-2-CQ.m3u8
-CCTV3,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-3-CQ/G_CCTV-3-CQ.m3u8
-CCTV4,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-4-CQ/G_CCTV-4-CQ.m3u8
-CCTV5,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-5-CQ/G_CCTV-5-CQ.m3u8
-CCTV5+,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ.m3u8
-CCTV6,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-6-CQ/G_CCTV-6-CQ.m3u8
-CCTV7,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-7-CQ/G_CCTV-7-CQ.m3u8
-CCTV8,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-8-CQ/G_CCTV-8-CQ.m3u8
-CCTV9,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-9-HD-265-5M/G_CCTV-9-HD-265-5M.m3u8
-CCTV10,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-10-HQ/G_CCTV-10-HQ.m3u8
-CCTV11,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-11-HQ/G_CCTV-11-HQ.m3u8
-CCTV12,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-12-HD-265-5M/G_CCTV-12-HD-265-5M.m3u8
-CCTV13,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-13-CQ/G_CCTV-13-CQ.m3u8
-CCTV14,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
-CCTV15,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-15/G_CCTV-15.m3u8
-CCTV16,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
-CCTV17,http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_CCTV-17-CQ/G_CCTV-17-CQ.m3u8
 
- 河南联通
-CCTV1,http://182.119.122.136:8000/udp/225.1.4.73:1102
-CCTV2,http://182.119.122.136:8000/udp/225.1.4.74:1103
-CCTV3,http://182.119.122.136:8000/udp/225.1.4.158:1194
-CCTV4,http://182.119.122.136:8000/udp/225.1.5.30:1333
-CCTV5,http://182.119.122.136:8000/udp/225.1.4.159:1195
-CCTV5+,http://182.119.122.136:8000/udp/225.1.4.75:1104
-CCTV6,http://182.119.122.136:8000/udp/225.1.4.160:1196
-CCTV7,http://182.119.122.136:8000/udp/225.1.4.76:1105
-CCTV8,http://182.119.122.136:8000/udp/225.1.4.161:1197
-CCTV9,http://182.119.122.136:8000/udp/225.1.4.77:1106
-CCTV11,http://182.119.122.136:8000/udp/225.1.4.215:1268
-CCTV12,http://182.119.122.136:8000/udp/225.1.4.79:1108
-CCTV13,http://182.119.122.136:8000/udp/225.1.4.113:1293
-CCTV14,http://182.119.122.136:8000/udp/225.1.4.80:1109
-CCTV15,http://182.119.122.136:8000/udp/225.1.4.216:1269
-CCTV17,http://182.119.122.136:8000/udp/225.1.4.226:2506
 
 
 
@@ -140,24 +86,6 @@ CCTV15,http://222.223.119.21:8888/newlive/live/hls/17/live.m3u8
 
 
       
-CCTV1,http://182.32.204.113:9901/tsfile/live/0001_1.m3u8?by=angtv
-CCTV2,http://182.32.204.113:9901/tsfile/live/0002_1.m3u8?by=angtv
-CCTV3,http://182.32.204.113:9901/tsfile/live/0003_1.m3u8?by=angtv
-CCTV4,http://182.32.204.113:9901/tsfile/live/0004_1.m3u8?by=angtv
-CCTV5,http://182.32.204.113:9901/tsfile/live/0005_1.m3u8?by=angtv
-CCTV5+,http://182.32.204.113:9901/tsfile/live/1072_1.m3u8?by=angtv
-CCTV6,http://182.32.204.113:9901/tsfile/live/0006_1.m3u8?by=angtv
-CCTV7,http://182.32.204.113:9901/tsfile/live/0007_1.m3u8?by=angtv
-CCTV8,http://182.32.204.113:9901/tsfile/live/0008_1.m3u8?by=angtv
-CCTV9,http://182.32.204.113:9901/tsfile/live/0009_1.m3u8?by=angtv
-CCTV10,http://182.32.204.113:9901/tsfile/live/0010_1.m3u8?by=angtv
-CCTV11,http://182.32.204.113:9901/tsfile/live/0011_1.m3u8?by=angtv
-CCTV12,http://182.32.204.113:9901/tsfile/live/0012_1.m3u8?by=angtv
-CCTV13,http://182.32.204.113:9901/tsfile/live/0013_1.m3u8?by=angtv
-CCTV14,http://182.32.204.113:9901/tsfile/live/0014_1.m3u8?by=angtv
-CCTV15,http://182.32.204.113:9901/tsfile/live/0015_1.m3u8?by=angtv
-CCTV16,http://182.32.204.113:9901/tsfile/live/1007_1.m3u8?by=angtv
-CCTV17,http://182.32.204.113:9901/tsfile/live/1066_1.m3u8?by=angtv
 
 
 
@@ -225,6 +153,7 @@ CCTV17,http://182.32.204.113:9901/tsfile/live/1066_1.m3u8?by=angtv
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 贵州卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
 
+
     华视
 北京卫视,http://220.194.178.58:8888/newlive/live/hls/19/live.m3u8
 东方卫视,http://220.194.178.58:8888/newlive/live/hls/20/live.m3u8
@@ -284,35 +213,7 @@ CCTV17,http://182.32.204.113:9901/tsfile/live/1066_1.m3u8?by=angtv
 新疆卫视,http://test.agtv.xyz/jd/hncd.php?id=xjws
 辽宁卫视,http://test.agtv.xyz/jd/hncd.php?id=lnws
 
-   卫视
-安徽卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=ahws
-北京卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=bjws
-东方卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=dfws
-东南卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=dnws
-广东卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=gdws
-广西卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=gxws
-贵州卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=gzws
-海南卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=hinws
-河南卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=hnws
-黑龙江卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=hljws
-湖北卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=hubws
-湖南卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=hunws
-吉林卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=jlws
-江苏卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=jsws
-江西卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=jxws
-辽宁卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=lnws
-山东卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=sdws
-深圳卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=szws
-四川卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=scws
-天津卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=tjws
-云南卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=ynws
-浙江卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=zjws
-重庆卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=cqws
-河北卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=hbws
-甘肃卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=gsws
-厦门卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=xmws
-陕西卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=sxws1
-山西卫视,http://www.liuyunw.com:88/zb/gzyh.php?id=sxws
+
 
       陕西移动
 江西卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225764/1.m3u8
@@ -334,30 +235,7 @@ CCTV17,http://182.32.204.113:9901/tsfile/live/1066_1.m3u8?by=angtv
 
 
 
-河北卫视,http://newzxl.top:4022/rtp/239.253.92.154:6011
-湖南卫视,http://newzxl.top:4022/rtp/239.253.92.84:8015
-浙江卫视,http://newzxl.top:4022/rtp/239.253.92.90:8020
-江苏卫视,http://newzxl.top:4022/rtp/239.253.92.88:8018
-北京卫视,http://newzxl.top:4022/rtp/239.253.92.87:8014
-东南卫视,http://newzxl.top:4022/rtp/239.253.92.201:6146
-东方卫视,http://newzxl.top:4022/rtp/239.253.92.89:8019
-天津卫视,http://newzxl.top:4022/rtp/239.253.92.91:8021
-深圳卫视,http://newzxl.top:4022/rtp/239.253.92.86:8017
-山东卫视,http://newzxl.top:4022/rtp/239.253.92.207:8109
-广东卫视,http://newzxl.top:4022/rtp/239.253.92.206:8108
-黑龙江卫视,http://newzxl.top:4022/rtp/239.253.92.85:8016
-辽宁卫视,http://newzxl.top:4022/rtp/239.253.92.115:6056
-安徽卫视,http://newzxl.top:4022/rtp/239.253.92.209:6566
-湖北卫视,http://newzxl.top:4022/rtp/239.253.92.210:6567
-四川卫视,http://newzxl.top:4022/rtp/239.253.92.16:6043
-重庆卫视,http://newzxl.top:4022/rtp/239.253.92.10:6053
-河南卫视,http://newzxl.top:4022/rtp/239.253.92.137:6144
-广西卫视,http://newzxl.top:4022/rtp/239.253.92.76:8043
-教育卫视,http://newzxl.top:4022/rtp/239.253.92.211:6069
-教育四套,http://newzxl.top:4022/rtp/239.253.92.200:6137
-贵州卫视,http://newzxl.top:4022/rtp/239.253.92.105:6055
-江西卫视,http://newzxl.top:4022/rtp/239.253.92.19:6145
-吉林卫视,http://newzxl.top:4022/rtp/239.253.92.202:6147
+
 
 
 河北综合🌴,#genre#
