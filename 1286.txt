@@ -59,7 +59,28 @@ CCTV13,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212262
 CCTV14,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
         
-
+ 满
+CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+CCTV12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
    
 
@@ -187,31 +208,7 @@ CCTV15,http://222.223.119.21:8888/newlive/live/hls/17/live.m3u8
 江西卫视,http://220.194.178.58:8888/newlive/live/hls/48/live.m3u8
 吉林卫视,http://220.194.178.58:8888/newlive/live/hls/49/live.m3u8
 海南卫视,http://220.194.178.58:8888/newlive/live/hls/50/live.m3u8
-北京卫视,http://test.agtv.xyz/jd/hncd.php?id=bjws
-东方卫视,http://test.agtv.xyz/jd/hncd.php?id=dfws
-浙江卫视,http://test.agtv.xyz/jd/hncd.php?id=jzws
-江苏卫视,http://test.agtv.xyz/jd/hncd.php?id=jsws
-天津卫视,http://test.agtv.xyz/jd/hncd.php?id=tjws
-深圳卫视,http://test.agtv.xyz/jd/hncd.php?id=szws
-广东卫视,http://test.agtv.xyz/jd/hncd.php?id=gdws
-湖北卫视,http://test.agtv.xyz/jd/hncd.php?id=hbws
-广西卫视,http://test.agtv.xyz/jd/hncd.php?id=xws
-安徽卫视,http://test.agtv.xyz/jd/hncd.php?id=ahws
-江西卫视,http://test.agtv.xyz/jd/hncd.php?id=jxws
-陕西卫视,http://test.agtv.xyz/jd/hncd.php?id=saws
-黑龙江卫视,http://test.agtv.xyz/jd/hncd.php?id=hlws
-贵州卫视,http://test.agtv.xyz/jd/hncd.php?id=gzws
-宁夏卫视,http://test.agtv.xyz/jd/hncd.php?id=nxws
-内蒙古卫视,http://test.agtv.xyz/jd/hncd.php?id=nmws
-河北卫视,http://test.agtv.xyz/jd/hncd.php?id=hews
-四川卫视,http://test.agtv.xyz/jd/hncd.php?id=scws
-云南卫视,http://test.agtv.xyz/jd/hncd.php?id=ynws
-重庆卫视,http://test.agtv.xyz/jd/hncd.php?id=cqws
-甘肃卫视,http://test.agtv.xyz/jd/hncd.php?id=gsws
-山西卫视,http://test.agtv.xyz/jd/hncd.php?id=sxws
-西藏卫视,http://test.agtv.xyz/jd/hncd.php?id=xzws
-新疆卫视,http://test.agtv.xyz/jd/hncd.php?id=xjws
-辽宁卫视,http://test.agtv.xyz/jd/hncd.php?id=lnws
+
 
 
 
