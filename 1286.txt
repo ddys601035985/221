@@ -95,7 +95,25 @@ CCTV13,http://www.liuyunw.com:88/zb/iptv.php?id=cctv13
 CCTV14,http://www.liuyunw.com:88/zb/iptv.php?id=cctv14
 CCTV15,http://www.liuyunw.com:88/zb/iptv.php?id=cctv15   
 
-
+   山西DX组播
+CCTV1,http://qrrfwf2e.v3n.pkoplink.com:8082/udp/239.1.1.7:8007
+CCTV2,http://qrrfwf2e.v3n.pkoplink.com:8082/udp/239.1.1.8:8008
+CCTV3,http://qrrfwf2e.v3n.pkoplink.com:8082/udp/239.1.1.9:8009
+CCTV4,http://qrrfwf2e.v3n.pkoplink.com:8082/udp/239.1.1.10:8010
+CCTV5,http://qrrfwf2e.v3n.pkoplink.com:8082/udp/239.1.1.11:8011
+CCTV5+,http://qrrfwf2e.v3n.pkoplink.com:8082/udp/239.1.1.12:8012
+CCTV6,http://qrrfwf2e.v3n.pkoplink.com:8082/udp/239.1.1.13:8013
+CCTV7,http://qrrfwf2e.v3n.pkoplink.com:8082/udp/239.1.1.14:8014
+CCTV8,http://qrrfwf2e.v3n.pkoplink.com:8082/udp/239.1.1.15:8015
+CCTV9,http://qrrfwf2e.v3n.pkoplink.com:8082/udp/239.1.1.16:8016
+CCTV10,http://qrrfwf2e.v3n.pkoplink.com:8082/udp/239.1.1.17:8017
+CCTV11,http://qrrfwf2e.v3n.pkoplink.com:8082/udp/239.1.1.18:8018
+CCTV12,http://qrrfwf2e.v3n.pkoplink.com:8082/udp/239.1.1.19:8019
+CCTV13,http://qrrfwf2e.v3n.pkoplink.com:8082/udp/239.1.1.20:8020
+CCTV14,http://qrrfwf2e.v3n.pkoplink.com:8082/udp/239.1.1.21:8021
+CCTV15,http://qrrfwf2e.v3n.pkoplink.com:8082/udp/239.1.1.22:8022
+CCTV16,http://qrrfwf2e.v3n.pkoplink.com:8082/udp/239.1.1.122:8122
+CCTV17,http://qrrfwf2e.v3n.pkoplink.com:8082/udp/239.1.1.23:8023
 
 
 CCTV1,http://222.223.119.21:8888/newlive/live/hls/2/live.m3u8
