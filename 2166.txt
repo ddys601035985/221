@@ -1,6 +1,6 @@
 央视频道🌴,#genre#
 
-CCTV1,http://test.agtv.xyz/jd/hncd.php?id=cctv1
+CCTV1,http://test.agtv.xyz/jd/hncd.php?id=cctv11
 CCTV2,http://test.agtv.xyz/jd/hncd.php?id=cctv2
 CCTV3,http://test.agtv.xyz/jd/hncd.php?id=cctv3
 CCTV4,http://test.agtv.xyz/jd/hncd.php?id=cctv4
