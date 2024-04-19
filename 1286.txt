@@ -1,5 +1,4 @@
 全顺综合🌴,#genre#
-百视通,#genre#
 CCTV1,http://dp.sxtv.top:88/live/bestv.php?id=cctv1
 CCTV2,http://dp.sxtv.top:88/live/bestv.php?id=cctv2
 CCTV3,http://dp.sxtv.top:88/live/bestv.php?id=cctv3
@@ -134,12 +133,6 @@ CCTV世界地理,https://www.sxtv.top/cctv.php?id=sjdl
 CCTV高尔夫网球,https://www.sxtv.top/cctv.php?id=gefwq
 CCTV央视台球,https://www.sxtv.top/cctv.php?id=ystq
 CCTV卫生健康,https://www.sxtv.top/cctv.php?id=wsjk
-CGTN,https://www.sxtv.top/cctv.php?id=cgtn
-CGTN纪录,https://www.sxtv.top/cctv.php?id=cgtnjl
-CGTN西语,https://www.sxtv.top/cctv.php?id=cgtne
-CGTN法语,https://www.sxtv.top/cctv.php?id=cgtnf
-CGTN阿语,https://www.sxtv.top/cctv.php?id=cgtna
-CGTN俄语,https://www.sxtv.top/cctv.php?id=cgtnr
 北京卫视,https://www.sxtv.top/cctv.php?id=bjws
 东方卫视,https://www.sxtv.top/cctv.php?id=dfws
 天津卫视,https://www.sxtv.top/cctv.php?id=tjws
