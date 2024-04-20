@@ -1,8 +1,9 @@
 全顺综合🌴,#genre#
+
 CCTV1,http://dp.sxtv.top:88/live/yfy.php?id=1
 CCTV2,http://dp.sxtv.top:88/live/yfy.php?id=2
 CCTV3,http://dp.sxtv.top:88/live/yfy.php?id=3
-CCTV4际,http://dp.sxtv.top:88/live/yfy.php?id=4
+CCTV4,http://dp.sxtv.top:88/live/yfy.php?id=4
 CCTV5,http://dp.sxtv.top:88/live/yfy.php?id=5
 CCTV5+,http://dp.sxtv.top:88/live/yfy.php?id=13
 CCTV6,http://dp.sxtv.top:88/live/yfy.php?id=6
