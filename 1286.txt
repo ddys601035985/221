@@ -64,6 +64,8 @@ CHC家庭影院,http://dp.sxtv.top:88/ljes/cqyx.php?id=chcjt
 海南卫视,http://dp.sxtv.top:88/ljes/cqyx.php?id=hinws
 三沙卫视,http://dp.sxtv.top:88/ljes/cqyx.php?id=ssws
 
+CCTV1综合,http://222.223.118.222:2180/live/cctv1/index.m3u8
+
 CCTV1综合,http://dp.sxtv.top:88/ljes/migu.php?id=cctv1
 CCTV2财经,http://dp.sxtv.top:88/ljes/migu.php?id=cctv2
 CCTV3综艺,http://dp.sxtv.top:88/ljes/migu.php?id=cctv3
@@ -160,6 +162,13 @@ CCTV17农业农村,http://dp.sxtv.top:88/ljes/yfy.php?id=90
 
 
 河北综合🌴,#genre#
+河北农民,http://222.223.118.222:2180/live/hebnm/index.m3u8
+河北卫视,http://222.223.118.222:2180/live/hebws/index.m3u8
+河北经济,http://222.223.118.222:2180/live/hebjj/index.m3u8
+河北都市,http://222.223.118.222:2180/live/hebds/index.m3u8
+河北影视,http://222.223.118.222:2180/live/hebys/index.m3u8
+河北公共,http://222.223.118.222:2180/live/hebsgg/index.m3u8
+
 河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38
 河北经济,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=878ace626abc063571a3ddff9ec396a3
 河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=4380da13735a230c080ce8ff404033af
