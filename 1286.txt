@@ -18,24 +18,80 @@ CCTV15,http://222.223.118.222:2180/live/cctv15/index.m3u8
 
 西夏
 
-CCTV-1,http://183.92.4.163:4000/udp/228.0.0.1:6108
-CCTV-2,http://183.92.4.163:4000/udp/228.0.0.2:6108
-CCTV-3,http://183.92.4.163:4000/udp/228.0.0.156:7156
-CCTV-4,http://183.92.4.163:4000/udp/228.0.0.143:7143
-CCTV-5,http://183.92.4.163:4000/udp/228.0.0.112:6108
+CCTV1,http://183.92.4.163:4000/udp/228.0.0.1:6108
+CCTV2,http://183.92.4.163:4000/udp/228.0.0.2:6108
+CCTV3,http://183.92.4.163:4000/udp/228.0.0.156:7156
+CCTV4,http://183.92.4.163:4000/udp/228.0.0.143:7143
+CCTV5,http://183.92.4.163:4000/udp/228.0.0.112:6108
 CCTV5＋,http://183.92.4.163:4000/udp/228.0.0.17:6108
-CCTV-6,http://183.92.4.163:4000/udp/228.0.0.157:7157
-CCTV-7,http://183.92.4.163:4000/udp/228.0.0.7:6108
-CCTV-8,http://183.92.4.163:4000/udp/228.0.0.158:7158
-CCTV-9,http://183.92.4.163:4000/udp/228.0.0.9:6108
-CCTV-10,http://183.92.4.163:4000/udp/228.0.0.10:6108
-CCTV-11,http://183.92.4.163:4000/udp/228.0.0.242:6108
-CCTV-12,http://183.92.4.163:4000/udp/228.0.0.12:6108
-CCTV-13,http://183.92.4.163:4000/udp/228.0.0.202:6108
-CCTV-14,http://183.92.4.163:4000/udp/228.0.0.14:6108
-CCTV-15,http://183.92.4.163:4000/udp/228.0.0.15:6108
-CCTV-16,http://183.92.4.163:4000/udp/228.0.0.249:6108
-CCTV-17,http://183.92.4.163:4000/udp/228.0.0.161:7161
+CCTV6,http://183.92.4.163:4000/udp/228.0.0.157:7157
+CCTV7,http://183.92.4.163:4000/udp/228.0.0.7:6108
+CCTV8,http://183.92.4.163:4000/udp/228.0.0.158:7158
+CCTV9,http://183.92.4.163:4000/udp/228.0.0.9:6108
+CCTV10,http://183.92.4.163:4000/udp/228.0.0.10:6108
+CCTV11,http://183.92.4.163:4000/udp/228.0.0.242:6108
+CCTV12,http://183.92.4.163:4000/udp/228.0.0.12:6108
+CCTV13,http://183.92.4.163:4000/udp/228.0.0.202:6108
+CCTV14,http://183.92.4.163:4000/udp/228.0.0.14:6108
+CCTV15,http://183.92.4.163:4000/udp/228.0.0.15:6108
+CCTV16,http://183.92.4.163:4000/udp/228.0.0.249:6108
+CCTV17,http://183.92.4.163:4000/udp/228.0.0.161:7161
+ 爱尚
+CCTV1,http://222.174.140.242:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV2,http://222.174.140.242:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV3,http://222.174.140.242:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV4,http://222.174.140.242:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV5,http://222.174.140.242:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV5+,http://222.174.140.242:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV6,http://222.174.140.242:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV7,http://222.174.140.242:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV8,http://222.174.140.242:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV9,http://222.174.140.242:9901/tsfile/live/0009_2.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV10,http://222.174.140.242:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV11,http://222.174.140.242:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV12,http://222.174.140.242:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV13,http://221.1.210.106:8053/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$山东菏泽 联通
+CCTV14,http://222.174.140.242:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV15,http://222.174.140.242:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
+CCTV16,http://1.30.18.218:20080/hls/16/index.m3u8$内蒙古呼和浩特 联通
+CCTV17,http://221.1.210.106:8053/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$山东菏泽 联通
+
+
+
+
+CCTV1,http://123.160.235.166:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://123.160.235.166:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://123.160.235.166:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://123.160.235.166:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://123.160.235.166:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://123.160.235.166:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://123.160.235.166:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://123.160.235.166:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://123.160.235.166:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://123.160.235.166:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://123.160.235.166:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://123.160.235.166:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://123.160.235.166:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://123.160.235.166:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://123.160.235.166:85/tsfile/live/0015_1.m3u8?
+
+
+CCTV1,http://175.0.50.196:8899/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://175.0.50.196:8899/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://175.0.50.196:8899/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://175.0.50.196:8899/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://175.0.50.196:8899/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://175.0.50.196:8899/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://175.0.50.196:8899/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://175.0.50.196:8899/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://175.0.50.196:8899/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://175.0.50.196:8899/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://175.0.50.196:8899/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://175.0.50.196:8899/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://175.0.50.196:8899/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://175.0.50.196:8899/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://175.0.50.196:8899/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 河北卫视,http://222.223.118.222:2180/live/hebws/index.m3u8
 河北经济,http://222.223.118.222:2180/live/hebjj/index.m3u8
