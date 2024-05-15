@@ -55,8 +55,25 @@ CCTV14,http://222.174.140.242:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1
 CCTV15,http://222.174.140.242:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$山东日照 电信
 CCTV16,http://1.30.18.218:20080/hls/16/index.m3u8$内蒙古呼和浩特 联通
 CCTV17,http://221.1.210.106:8053/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$山东菏泽 联通
-
-
+新感觉
+CCTV1,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv1
+CCTV2,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv2
+CCTV3,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv3
+CCTV4,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv4
+CCTV5,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv5
+CCTV5+,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv5p
+CCTV6,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv6
+CCTV7,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv7
+CCTV8,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv8
+CCTV9,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv9
+CCTV10,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv10
+CCTV11,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv11
+CCTV12,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv12
+CCTV13,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv13
+CCTV14,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv14
+CCTV15,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv15
+CCTV16 ,https://itv.lat/tv/live.php?&line=1&id=cctv16
+CCTV17 ,https://itv.lat/tv/live.php?&line=1&id=cctv17
 
 
 
@@ -164,7 +181,35 @@ CCTV17,http://221.1.210.106:8053/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&a
 凤凰资讯,http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
 凤凰资讯,http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-
+ 新感觉
+浙江卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=zjws
+东方卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=dfws
+辽宁卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=llws
+北京卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=bjws
+贵州卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=gzws
+重庆卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cqws
+云南卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=ynwx
+旅游卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=lyws
+安徽卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=ahws
+优漫卡通,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=ymkt
+江西卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=jxws
+吉林卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=jlws
+天津卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=tjws
+卡酷动画,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=kkdh
+广西卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=gxws
+四川卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=scws
+湖北卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=hbws
+陕西卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=sxws
+江苏卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=jsws
+东南卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=dnws
+黑龙江卫视http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=hljws
+广东卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=gdws
+山东卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=sdwd
+湖南经视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=hnjs
+湖南公共,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=hngg
+湖南卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=hnws
+金鹰卡通,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=jykt
+河南卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=henws
 
 河北综合🌴,#genre#
 河北农民,http://222.223.118.222:2180/live/hebnm/index.m3u8
@@ -173,6 +218,15 @@ CCTV17,http://221.1.210.106:8053/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&a
 河北都市,http://222.223.118.222:2180/live/hebds/index.m3u8
 河北影视,http://222.223.118.222:2180/live/hebys/index.m3u8
 河北公共,http://222.223.118.222:2180/live/hebsgg/index.m3u8
+
+河北卫视,http://zy.otioi.cn/live/place.php?id=hebws
+河北经济,http://zy.otioi.cn/live/place.php?id=hebjj
+河北农民,http://zy.otioi.cn/live/place.php?id=hebnm
+河北都市,http://zy.otioi.cn/live/place.php?id=hebds
+河北影视,http://zy.otioi.cn/live/place.php?id=hebys
+河北少儿,http://zy.otioi.cn/live/place.php?id=hebse
+河北公共,http://zy.otioi.cn/live/place.php?id=hebgg
+
 
 河北农民,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38
 河北经济,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=878ace626abc063571a3ddff9ec396a3
