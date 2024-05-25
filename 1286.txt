@@ -228,7 +228,7 @@ CCTV17 ,https://itv.lat/tv/live.php?&line=1&id=cctv17
 保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
 
 河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1703223429&k=d3561405e537838c84f44aa042d3e5a4
-少儿🌸,#genre#
+少儿频道🌸,#genre#
 少儿动画001,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3823b0a397454309b1b9c6118a335f08/1200.m3u8
 少儿动画002,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/124ae5351e6145bb9d4a972bcd704a13/1200.m3u8
 少儿动画003,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7e6d6cc44a2a44abbd685244aea7460b/1200.m3u8
