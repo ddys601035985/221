@@ -228,7 +228,6 @@ CCTV17 ,https://itv.lat/tv/live.php?&line=1&id=cctv17
 保定新闻,http://jwcdnqx.hebyun.com.cn/live/jybd/1500k/tzwj_video.m3u8
 
 河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1703223429&k=d3561405e537838c84f44aa042d3e5a4
-
 少儿🌸,#genre#
 少儿动画001,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3823b0a397454309b1b9c6118a335f08/1200.m3u8
 少儿动画002,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/124ae5351e6145bb9d4a972bcd704a13/1200.m3u8
@@ -415,7 +414,7 @@ CCTV17 ,https://itv.lat/tv/live.php?&line=1&id=cctv17
 少儿动画183,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/374067cee0644903a1b31836e61913e8/1200.m3u8
 少儿动画184,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/adce80895aa64878b7ae713ddae9e5f2/1200.m3u8
 ##
-春晚合集🌴,#genre#
+春晚合集🌸,#genre#
 
 新感觉
 春晚2024,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
@@ -503,7 +502,7 @@ CCTV17 ,https://itv.lat/tv/live.php?&line=1&id=cctv17
 春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 
-电影轮播🌴,#genre#
+电影轮播🌸,#genre#
 电影_星爷,https://live.metshop.top/huya/11342412
 电影_英叔,https://live.metshop.top/huya/11342421
 电影_发哥,https://live.metshop.top/huya/11342387
